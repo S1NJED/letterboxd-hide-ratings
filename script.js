@@ -2,7 +2,7 @@
 // @name         Hide letterboxd ratings
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-24
-// @description  try to take over the world!
+// @description  Hide the ratings from a movie in letterboxd
 // @author       S1NJED
 // @match        https://letterboxd.com/film/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=letterboxd.com
